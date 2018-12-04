@@ -1,2 +1,2 @@
-# Individual-Studies
-This repo contains exploration to uncover insight from data
+# Excel/VBA
+This repo contains data exploration in Excel and data manipulation with VBA
